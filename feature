@@ -1,1 +1,1 @@
-conlict 2
+conflict 1
